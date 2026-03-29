@@ -8,7 +8,7 @@ Havok Asset tool using all SDKs heavily inspired off assetcc2.
 - Converts to XML or binary HKX output.
 - Supports metadata stripping, custom layout rules, and user tag output.
 
-## Supported Build Configurations (x86)
+## Supported Versions (x86)
 
 - `550`
 - `600`
@@ -23,8 +23,6 @@ Havok Asset tool using all SDKs heavily inspired off assetcc2.
 - `2013_1_0_r1`
 - `2013_2_0`
 - `2014_1_0_r1`
-
-## Build
 
 
 ## Usage
