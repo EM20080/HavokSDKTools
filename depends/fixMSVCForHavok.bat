@@ -1,0 +1,1 @@
+for /r %%f in (*.lib) do patchlib -r "_MSC_VER" "%%f"
